@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>sample</title>
+<style>
+.box-bottom{
+box-sizeing:border-box;
+top:20px;
+bottom:20px;
+position:relative;,absolute,static,fixed;
+}
+.box-top{
+z-index:2;
+<em>, <strong>, and <a>
+display:block;inline;inline-block;
+}
+.boxes{
+float:left;right;
+clear:left;
+DarkSeaGreen: #8FBC8F
+Sienna:       #A0522D
+SaddleBrown:  #8B4513
+Brown:        #A52A2A
+Black:        #000000 or #000
+White:        #FFFFFF or #FFF
+Aqua:         #00FFFF or #0FF
+color: hsl(120, 60%, 70%);
+color: rgba(234, 45, 98, 0.33);
+color: hsla(34, 100%, 50%, 0.1);
+color: transparent;
+}
+header {
+font-weight: 800;
+}
+
+footer {
+font-weight: 200;
+}
+word-spacing: 0.3em;
+@font-face;Space Mono;
+@font-face {
+  font-family: "Roboto";
+  src: url(fonts/Roboto.woff2) format('woff2'),
+       url(fonts/Roboto.woff) format('woff'),
+       url(fonts/Roboto.tff) format('truetype');
+}
